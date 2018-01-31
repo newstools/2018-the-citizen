@@ -1,0 +1,25 @@
+The video, which takes place in Polokwane, was originally posted by Facebook user Cephas Marikisi. Since it was posted, it has since received more than 20 000 shares on Facebook, Bosveld Review reports.
+Please note the video contains some profanity. Viewer discretion is advised.
+READ MORE: WATCH: Hijacking goes hysterically wrong
+In the video, an alleged hijacker is seen hanging on the door of a speeding truck before moving across the truck to get to the other side.
+
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : 'your-app-id',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.11'
+    });
+  };</p>
+<p>  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+WATCH: Hijacking goes hysterically wrong
+
+For more news your way, follow The Citizen on Facebook and Twitter.
