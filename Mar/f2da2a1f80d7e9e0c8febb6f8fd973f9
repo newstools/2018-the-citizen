@@ -1,0 +1,37 @@
+This represents the point at which the municipality will turn off most of the city’s water distribution system. The date is not certain; it has shifted several times, and is currently predicted to arrive on July 9.
+There are measures in place to manage Day Zero and beyond. The city has broadcast a disaster management strategy. It will establish 200 water distribution points across the city, at which citizens can collect their 25 litre daily water allocation.
+But is this strategy robust or even feasible?
+We used system dynamics, a modelling approach, to understand how the water collection plan might work. The idea was to simulate water collection as per the city’s plan over the course of a single day (24 hours).
+We made some key assumptions about population size, the number of taps per distribution site and other factors. Taking these into account, the model found that it would require 12.5 hours to provide water to Cape Town’s entire population per day. And the real figure might be even higher if “random shocks” like conflict happen at the water points.
+Our findings suggest that the city’s best technical intervention would be to double the number of distribution points to 400. This would save time and ensure that Cape Town’s whole population can be serviced. Another, perhaps more practical approach, would be to keep 200 distribution points but increase the number of taps and the water pressure at each of them.
+But even these strategies won’t help if Cape Town doesn’t address the reality of conflict and related delays. These are unpredictable and incalculable. They are also the greatest indication for why Day Zero should be avoided at all costs.
+Assumptions and insights
+These are the assumptions we made in developing the model:
+
+Cape Town’s population is estimated at 4 million people. Of these, 700 000 live in two areas that won’t have their taps turned off. These include strategic sites, like hospitals, and informal settlements. Another 800 000 people live in close proximity to informal settlements and could potentially source water there. Based on these assumptions we calculated that 2.5 million people will be required to collect water at designated water points.
+The city plans to set up 200 distribution points with an average of 50 taps per site. Equal distribution of people per water distribution point is assumed.
+Water distributed is 25 litres per person. Individuals are able to collect up to 100 litres a day to cover four days of consumption or share with other members of their household. The model assumes that the whole population must receive their allocation.
+Initial water pressure is assumed at a level which allows outflow of 10 litres per minute, which implies it requires 2.5 minutes to fill 25 litres or service one person
+A waiting delay of half a minute (30 seconds) from changing between containers and people is assumed.
+
+Once the model had been run using the above assumptions, and the result of 12.5 hours was observed, we ran possible scenarios to shorten the time. These are outlined in figure 1 below.
+
+Figure 1: Population serviced per distribution point scenarios.
+
+A combined scenario of 75 taps per site and increasing water pressure to 20 litres to 30 litres per minute, while maintaining the 200 sites (as indicated by the green line), shows that the population would be serviced much faster: within six hours. Doubling distribution points would drop the service time to five hours, which suggests that the combined scenario is more practical.
+Social factors
+The insights outlined in figure 1 would function perfectly as technical solutions. But what happens when social and political factors are introduced into the model?
+For instance, how can the city ensure that people are taking the allocated amount of water? How would military order, which has been proposed at distribution points, look in practice? What is the extent of conflict arising at the water points due to long queues? How does this compromise the ability to service people at a distribution point?
+These dynamics change the aggregate impact from the well-organised technical solutions proposed above. They can be represented as random shocks, referred to here as “disruption noise”. This could dramatically increase the time needed to service each person, implying that fewer people are serviced per hour. This is illustrated in figure 2.
+
+Figure 2: Average population serviced per hour due to disruption noise.
+
+And, if random shocks happen, the time needed to service the population per distribution point will shoot up to 25 hours.
+
+Figure 3: Comparison of Population Serviced per Distribution in Base and Disruption Noise Scenarios.
+
+Lessons for other cities
+Cape Town has managed the use of water from the demand side, for a long time. But hasn’t made many interventions on the supply side, which partly has led to the crisis.
+Other cities need to learn from this. Better planning is needed, through focusing on the root cause of problems and not their symptoms, identifying the most desirable interventions, and understanding its effect.
+Josephine Kaviti Musango, Associate Professor, Stellenbosch University and Paul K Currie, Researcher, Stellenbosch University
+This article was originally published on The Conversation. Read the original article.
