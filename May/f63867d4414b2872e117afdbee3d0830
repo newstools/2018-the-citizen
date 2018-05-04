@@ -1,0 +1,14 @@
+The social media site said it found no sign that hackers accessed the exposed data, but advised users to change their passwords to be safe.
+Twitter practice is to store passwords encrypted, or “hashed,” so they are masked to even people inside the company, Twitter chief technology officer Parag Agrawal explained in a blog post.
+“Due to a bug, passwords were written to an internal log before completing the hashing process,” he said.
+“We found this error ourselves, removed the passwords, and are implementing plans to prevent this bug from happening again.”
+The San Francisco-based internet company did not specify how many passwords were exposed or how long the glitch made data vulnerable to snooping.
+“Out of an abundance of caution, we ask that you consider changing your password on all services where you’ve used this password,” Agrawal told users.
+“We are very sorry this happened,” he said.
+The stumble comes as the sector faces intense scrutiny over the protection of personal data online, in the wake of the Cambridge Analytica scandal which saw information from tens of millions of Facebook users hijacked and misused.
+Twitter last week reported its second consecutive quarterly profit, boosting the outlook for the messaging platform after years in the red.
+The social network earned $61 million in the first three months of the year, helped by strong growth in advertising revenue and modest gains in users.
+First quarter revenues rose 21 percent from a year ago to $665 million, and the key metric of monthly active users increased by six million from late last year to 336 million.
+Chief executive Jack Dorsey said recent changes made to the service have helped “engagement,” a measure of how often people turn to the social network and how long they stay.
+While Twitter has built a solid core base of celebrities, politicians and journalists, it has failed to match the broader appeal of Facebook and other social platforms, hurting its ability to bring in ad revenues.
+The network has stepped up efforts to boost its user base and engagement, adding streaming video partnerships, doubling the character limit on tweets to 280 and making it easier to create “tweetstorms” by stringing messaging together.
