@@ -1,0 +1,12 @@
+While artificial intelligence (AI) programmes have recently made great strides in imitating human brain processing — everything from recognising objects to playing complicated board games — spatial navigation has remained a challenge.
+It requires the recalculation of one’s position, after each step taken, in relation to the starting point and destination — even when travelling a never-before-taken route.
+Navigation is considered a complex behavioural task, and in animals is partly controlled by a sort of onboard GPS driven by “grid cells” in the brain’s hippocampus region. These cells have been observed firing in a regular pattern as mammals explore a new environment.
+In a new study published in the journal Nature, AI researchers said they had developed a “deep neural network”, or computer “brain”, which they trained to navigate towards a goal in a virtual maze.
+When shortcuts were introduced, by opening a previously blocked opening for example, the AI automatically took the shorter route.
+– ‘Super-human’ –
+Furthermore, the computer “brain” generated navigational grids strikingly similar to those observed in the brains of foraging mammals, said the team.
+The programme “performed at a super-human level, exceeding the ability of a professional game player,” three of the study authors said in a press statement.
+It “exhibited the type of flexible navigation normally associated with animals, taking novel routes and shortcuts when they became available.”
+Most of the researchers are attached to DeepMind, the British AI company that also created AlphaGo, the self-trained computer that beat human champions at the Chinese board game “Go” said to require intuition rather than brute processing power to prevail.
+The team said their work was “an important step in understanding the fundamental computational purpose of grid cells in the brain”.
+The discoverers of grid cells were awarded the Nobel Prize for Medicine in 2014.
