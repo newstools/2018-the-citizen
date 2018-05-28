@@ -1,0 +1,8 @@
+Less than a year after around 60 million South African ID numbers were posted publicly online, reports have emerged of a data leak that could be much worse.
+Working with cybersecurity expert, Troy Hunt, iAfrikan has reported that the personal data of 934,000 South Africans has been leaked online. While the number of affected citizens is substantially less than last year’s snafu, the latest leak contains not only ID numbers, but also cell numbers, email addresses and plain text passwords.
+The database was handed over by an anonymous source, who claims they found it on a publicly accessible server. That server, iAfrikan reports, “allegedly belongs to a company that handles electronic traffic fine payments in South Africa.”
+“This is yet another reminder of how far our data can spread without our knowledge,” Hunt told iAfrikan.
+“In this case, in particular, the presence of plain text passwords poses a serious risk because inevitably, those passwords will unlock many of the other accounts victims of the breach use. This one incident has likely already led to multiple other breaches of online accounts due to that reuse,” he added.
+Since fine payments are processed by quite a few different companies, it’s unclear as yet where the leak has come from.
+The leak doesn’t contain the details of every single licensed driver in the country – which currently stands at roughly 12 million – but if anyone who has used an online system to pay a fine in the last few years should change their password immediately.
+Hunt has also urged South Africans to head over to his site, HaveIBeenPwned, to check whether or not their email address has been compromised.
