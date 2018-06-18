@@ -1,0 +1,17 @@
+A cybersecurity expert has questioned the security measures Liberty put in place prior to a data leak that has put the information of its customers at risk.
+Liberty Holdings’ share price fell nearly five percent on Monday midday as the insurer battled to douse the fire caused by a data breach in its IT systems.
+Liberty said on Sunday that it became aware of the attack when an external party alerted the firm that it had seized data from the insurer and threatened to release it if it was not compensated for the hack.
+The company said there was no evidence that any of its customers had suffered any financial losses.
+Liberty said that it was at an advanced stage of investigating the extent of the data breach, which at this stage seemed to be largely emails and attachments.
+However, Andrew Chester, managing director of Ukuvuma Cyber Security, was critical.
+“Liberty claims that it is in control of its technology and data infrastructure after a massive data breach, but the fact that hackers could extract data undetected is alarming. Cybercriminals are now claiming a ransom to not release the information of Liberty’s top clients, and this news has sent panic alarms through the insurance and finance industries.
+“Why did Liberty have unstructured email data and attachments that were left unmonitored and, more importantly, why was this sensitive data not encrypted? When doing threat hunting or a security analysis for any company, the first thing one looks for is how easy it is to extract data without being detected.
+“Additionally, how did the hackers know where to find the data? If it was an inside job they might have been tipped off, but if it wasn’t, it means that they spent enough time on the infrastructure to know where to look, which is very alarming,” he said.
+Chester said another point to consider was how the hackers had gained access.
+“It most likely happened in one of two ways: it was either an inside job or someone with the correct privileges was hacked, which means they could have used that person’s permissions to get into the system.”
+This could have been avoided simply by applying general data security practices such as always encrypting sensitive data, segregating it from vulnerable systems, and building in rigorous access control and monitoring systems.
+“It’s also quite alarming that that no one detected the breach until the hackers themselves informed Liberty. There’s a common saying that you sometimes don’t know you’ve been hacked until law enforcement comes knocking at your door, but in this case Liberty only found out once the criminals had contacted them,” he adds.
+This could be the first South African incident subject to the General Data Protection Regulation (GDPR) since its inception on 25 May 2018.
+The GDPR, which Liberty has to conform to because of its European stakeholders, states that companies must send out breach notifications to their clients.
+“How many big corporate data breaches are we unaware of that occurred before the implementation of GDPR? As a Liberty client, I am very worried. Should client personal data leak onto the dark or public web, a lot of personal liability issues become a reality for Liberty,” Chester added.
+“I think the unfortunate truth is that Liberty will be raked over the coals for this, and it could end up costing them millions in real and reputational damage.”
